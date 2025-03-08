@@ -13,7 +13,7 @@ model-best.h5: Saved model weights after training.
 ## Setup
 Data Preparation: Organize your images in a directory (train_dir/) with subdirectories for each class.
 
-## Environment Setup:
+## Environment Setup
 Install dependencies using pip:
 pip install tensorflow numpy keras
 
