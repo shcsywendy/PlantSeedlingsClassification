@@ -15,8 +15,6 @@ Data Preparation: Organize your images in a directory (train_dir/) with subdirec
 
 ## Environment Setup:
 Install dependencies using pip:
-nginx
-Copy
 pip install tensorflow numpy keras
 
 ## Training the Model
